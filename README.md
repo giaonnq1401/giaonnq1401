@@ -26,4 +26,8 @@
 </div>
 
 ### :sparkles:
+<div align="center">
+  
 ![giaonnq1401's GitHub stats](https://github-readme-stats.vercel.app/api?username=giaonnq1401&show_icons=true&theme=slateorange)
+  
+<div/>
